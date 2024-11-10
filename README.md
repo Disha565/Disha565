@@ -2,7 +2,7 @@
 
 🎓 M.Tech student in CSIS , IIITH
 
-##🌱 Projects Completed During My Postgraduation
+## 🌱 Projects Completed During My Postgraduation
 
 - **P2P File Sharing System**
 - **POSIX Shell Implementation**
