@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Disha Jain, thanks for visiting my profile ❤️
 
-<!--
-**Disha565/Disha565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech student in CSIS
 
-Here are some ideas to get you started:
+## Projects Completed During My Postgraduation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **P2P File Sharing System**
+- **POSIX Shell Implementation**
+- **Scalable Media Conversion**
+- **Seam Carving**
+
+## 🤖 AI Projects
+
+- Implemented **KNN**, **K-Means**, **Naive Bayes** from Scratch
+- Implemented **Face Recognition** using PCA
+- **Background Subtraction** using Gaussian Mixture Models (GMMs)
+- **Age Prediction** from Facial Image
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/disha-jain05/)
+- [LeetCode](https://leetcode.com/u/DishaJain05/)
